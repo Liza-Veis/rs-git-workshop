@@ -1,1 +1,3 @@
 Some text for a.txt
+
+Modified from master
